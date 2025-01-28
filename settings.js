@@ -9,7 +9,7 @@ global.pairingNumber = "2349019529423"
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = pairingNumber
+global.botNumber = 0024104130245
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -19,9 +19,9 @@ global.anticall = false
 global.autoReadChat = false
 global.alwaysonline = true
 global.autoswview = false
-global.public = true
+global.public = false
 global.autoreact = false
-global.antidelete = false
+global.antidelete = true
 global.autotyping = false
 global.autoBio = true
 global.antiSpam = true
